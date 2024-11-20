@@ -1,0 +1,13 @@
+h1 {
+    color: green;
+}
+.product-link {
+    color:rgb(172, 11, 172);
+    text-decoration: underline;
+}
+.product-descripcion {
+    color:red;
+}
+#product-imagen {
+    width: 500px;
+}
